@@ -1,0 +1,27 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.btn {
+
+    border-radius: 50px;
+    border: 0;
+    font-size: 1.3rem;
+    font-weight: 300;
+    margin: .60rem 0;
+    padding-top: .50rem;
+    padding-bottom: .50rem;
+    padding-left: .90rem;
+    padding-right: .90rem;
+    text-transform: uppercase;
+    white-space: nowrap;
+    background: black;
+    color: white;
+}
+
+.btn:hover {
+
+    background-color: black;
+}
